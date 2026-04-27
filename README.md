@@ -4,7 +4,7 @@
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                        SYSTEM STARTUP v2.0                          ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  USER         : asolimandev                                          ║
+║  USER         : vxoio                                          ║
 ║  ACCESS LEVEL : SENIOR_ARCHITECT                                     ║
 ║  ROLE         : Solutions Architect · AI Systems · Cloud            ║
 ║  ENVIRONMENT  : Linux / AWS / Docker / Kubernetes                   ║
@@ -64,7 +64,7 @@
 class SolutionsArchitect:
     def __init__(self):
         self.name       = "Abdelrahman Soliman"
-        self.alias      = "asolimandev"
+        self.alias      = "vxoio"
         self.location   = "Ottawa, CA"
         self.stack      = ["Python", "FastAPI", "PostgreSQL", "Docker", "AWS"]
         self.ai_stack   = ["Claude API", "OpenAI", "Gemini", "LangChain", "RAG"]
@@ -85,18 +85,18 @@ class SolutionsArchitect:
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asolimandev&show_icons=true&theme=tokyonight&border_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117&title_color=00ffff&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vxoio&show_icons=true&theme=tokyonight&border_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117&title_color=00ffff&hide_border=false)
 
 </td>
 <td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asolimandev&layout=compact&theme=tokyonight&border_color=00ff00&text_color=ffffff&bg_color=0d1117&title_color=00ffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vxoio&layout=compact&theme=tokyonight&border_color=00ff00&text_color=ffffff&bg_color=0d1117&title_color=00ffff)
 
 </td>
 </tr>
 </table>
 
-![Streak](https://streak-stats.demolab.com?user=asolimandev&theme=tokyonight&border=00ff00&ring=00ffff&fire=00ff00&currStreakLabel=00ffff&background=0d1117&stroke=00ff00&dates=ffffff)
+![Streak](https://streak-stats.demolab.com?user=vxoio&theme=tokyonight&border=00ff00&ring=00ffff&fire=00ff00&currStreakLabel=00ffff&background=0d1117&stroke=00ff00&dates=ffffff)
 
 </div>
 
@@ -106,7 +106,7 @@ class SolutionsArchitect:
 
 ### 🛡️ `~/activity --contribution-graph`
 
-![Snake animation](https://raw.githubusercontent.com/asolimandev/asolimandev/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/vxoio/vxoio/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -135,7 +135,7 @@ class SolutionsArchitect:
 </td>
 <td align="center">
 
-[![GitHub](https://img.shields.io/badge/asolimandev-181717?style=for-the-badge&logo=github&logoColor=00ff00&labelColor=0d1117)](https://github.com/asolimandev)
+[![GitHub](https://img.shields.io/badge/vxoio-181717?style=for-the-badge&logo=github&logoColor=00ff00&labelColor=0d1117)](https://github.com/vxoio)
 
 </td>
 </tr>
