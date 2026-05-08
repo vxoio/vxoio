@@ -1,48 +1,33 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,100:00d4ff&height=130&section=header&text=&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header&text=&fontSize=0" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Abdelrahman+Soliman;Senior+Software+Engineer;Solutions+Architect;AI+%26+Cloud+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=Abdelrahman+Soliman;Senior+Software+Engineer;Solutions+Architect;AI+%26+Cloud+Systems)](https://git.io/typing-svg)
 
 <br/>
 
-![](https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/ROLE-Solutions_Architect-00ffff?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/ENV-Linux_%2F_AWS_%2F_Docker-00ff00?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/LOCATION-Ottawa%2C_CA-00ffff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/STATUS-ONLINE-00d4ff?style=flat-square&labelColor=0a0e1a)
+![](https://img.shields.io/badge/ROLE-Solutions_Architect-a78bfa?style=flat-square&labelColor=0a0e1a)
+![](https://img.shields.io/badge/ENV-Linux_%7C_AWS_%7C_Docker-1dd1a1?style=flat-square&labelColor=0a0e1a)
+![](https://img.shields.io/badge/LOCATION-Ottawa%2C_CA-00d4ff?style=flat-square&labelColor=0a0e1a)
 
 </div>
 
 ---
 
-<div align="center">
-
-### 🛰️ Core Competencies
-
-![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-AWS%20%7C%20GCP%20%7C%20Azure-00ff00?style=for-the-badge&labelColor=0d1117)
-![AI Orchestration](https://img.shields.io/badge/AI_Orchestration-LLM%20%7C%20RAG%20%7C%20Agents-00ffff?style=for-the-badge&labelColor=0d1117)
-![Network Security](https://img.shields.io/badge/Network_Security-TLS%20%7C%20OAuth%20%7C%20Zero--Trust-00ff00?style=for-the-badge&labelColor=0d1117)
-![Systems Engineering](https://img.shields.io/badge/Systems_Engineering-Linux%20%7C%20Docker%20%7C%20K8s-00ffff?style=for-the-badge&labelColor=0d1117)
-![Backend](https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI%20%7C%20PostgreSQL-00ff00?style=for-the-badge&labelColor=0d1117)
-![Automation](https://img.shields.io/badge/Automation-Playwright%20%7C%20CDP%20%7C%20CI%2FCD-00ffff?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
-### 🧠 About
+### `~/about`
 
 ```python
 class SolutionsArchitect:
-    def __init__(self):
-        self.name       = "Abdelrahman Soliman"
-        self.alias      = "vxoio"
-        self.location   = "Ottawa, CA"
-        self.stack      = ["Python", "FastAPI", "PostgreSQL", "Docker", "AWS"]
-        self.ai_stack   = ["Claude API", "OpenAI", "Gemini", "RAG", "Agents"]
-        self.domains    = ["AI Automation", "Cloud Architecture", "Network Security"]
-        self.philosophy = "Think big. Build bigger. Ship clean."
+    name       = "Abdelrahman Soliman"
+    alias      = "vxoio"
+    location   = "Ottawa, CA"
+    stack      = ["Python", "FastAPI", "PostgreSQL", "Docker", "AWS"]
+    ai_stack   = ["Claude API", "OpenAI", "LangChain", "RAG", "Agents"]
+    domains    = ["AI Automation", "Cloud Architecture", "Network Security"]
+    philosophy = "Think big. Build bigger. Ship clean."
 
+    @property
     def current_build(self) -> str:
         return "Unified AI platform — browser automation, LLM orchestration, live ops"
 ```
@@ -51,34 +36,23 @@ class SolutionsArchitect:
 
 <div align="center">
 
-### 📟 Metrics
+### `~/stack`
 
-<table>
-<tr>
-<td>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vxoio&show_icons=true&theme=tokyonight&border_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117&title_color=00ffff&hide_border=false)
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vxoio&layout=compact&theme=tokyonight&border_color=00ff00&text_color=ffffff&bg_color=0d1117&title_color=00ffff)
-
-</td>
-</tr>
-</table>
-
-![Streak](https://streak-stats.demolab.com?user=vxoio&theme=tokyonight&border=00ff00&ring=00ffff&fire=00ff00&currStreakLabel=00ffff&background=0d1117&stroke=00ff00&dates=ffffff)
-
-</div>
-
----
-
-<div align="center">
-
-### 🛡️ Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/vxoio/vxoio/output/github-contribution-grid-snake-dark.svg)
+![Python](https://img.shields.io/badge/Python-0a0e1a?style=for-the-badge&logo=python&logoColor=00d4ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0e1a?style=for-the-badge&logo=typescript&logoColor=1dd1a1)
+![Go](https://img.shields.io/badge/Go-0a0e1a?style=for-the-badge&logo=go&logoColor=a78bfa)
+![Bash](https://img.shields.io/badge/Bash-0a0e1a?style=for-the-badge&logo=gnubash&logoColor=00d4ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0e1a?style=for-the-badge&logo=fastapi&logoColor=1dd1a1)
+![React](https://img.shields.io/badge/React-0a0e1a?style=for-the-badge&logo=react&logoColor=00d4ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e1a?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
+![Redis](https://img.shields.io/badge/Redis-0a0e1a?style=for-the-badge&logo=redis&logoColor=1dd1a1)
+![AWS](https://img.shields.io/badge/AWS-0a0e1a?style=for-the-badge&logo=amazonaws&logoColor=00d4ff)
+![Docker](https://img.shields.io/badge/Docker-0a0e1a?style=for-the-badge&logo=docker&logoColor=1dd1a1)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0e1a?style=for-the-badge&logo=kubernetes&logoColor=a78bfa)
+![Nginx](https://img.shields.io/badge/Nginx-0a0e1a?style=for-the-badge&logo=nginx&logoColor=00d4ff)
+![Linux](https://img.shields.io/badge/Linux-0a0e1a?style=for-the-badge&logo=linux&logoColor=1dd1a1)
+![OpenAI](https://img.shields.io/badge/OpenAI-0a0e1a?style=for-the-badge&logo=openai&logoColor=00d4ff)
+![Anthropic](https://img.shields.io/badge/Claude_API-0a0e1a?style=for-the-badge&logo=anthropic&logoColor=a78bfa)
 
 </div>
 
@@ -86,14 +60,48 @@ class SolutionsArchitect:
 
 <div align="center">
 
-### 📡 Connect
+### `~/metrics`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/asoliman2026)
-[![Email](https://img.shields.io/badge/Email-a.soliman2026@gmail.com-00ff00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:a.soliman2026@gmail.com)
-[![Portfolio](https://img.shields.io/badge/vxo.io-Live_Platform-00ffff?style=for-the-badge&logo=firefoxbrowser&logoColor=black&labelColor=0d1117)](https://vxo.io)
+<a href="https://github.com/vxoio">
+  <img height="178" src="https://github-readme-stats.vercel.app/api?username=vxoio&show_icons=true&count_private=true&include_all_commits=true&bg_color=0a0e1a&text_color=e6edf3&title_color=00d4ff&icon_color=1dd1a1&border_color=1e2d3d&ring_color=a78bfa&hide_border=false"/>
+  &nbsp;
+  <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxoio&layout=compact&langs_count=8&count_private=true&bg_color=0a0e1a&text_color=e6edf3&title_color=00d4ff&border_color=1e2d3d&hide_border=false&hide=html,css,scss,less"/>
+</a>
 
-> **`"A system is only as efficient as its weakest abstraction. Eliminate it."`**
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=80&section=footer" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=vxoio&background=0a0e1a&border=1e2d3d&stroke=1e2d3d&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&currStreakNum=1dd1a1&sideNums=e6edf3"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### `~/activity`
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vxoio&bg_color=0a0e1a&color=00d4ff&line=1dd1a1&point=a78bfa&area=true&area_color=00d4ff&hide_border=false&border_color=1e2d3d&radius=6&custom_title=Contribution+Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+![Contribution Snake](https://raw.githubusercontent.com/vxoio/vxoio/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### `~/connect`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asoliman2026-00d4ff?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0a0e1a)](https://linkedin.com/in/asoliman2026)
+[![Email](https://img.shields.io/badge/Gmail-a.soliman2026-a78bfa?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=0a0e1a)](mailto:a.soliman2026@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-vxo.io-1dd1a1?style=for-the-badge&logo=firefoxbrowser&logoColor=1dd1a1&labelColor=0a0e1a)](https://vxo.io)
+
+<br/>
+
+> `"A system is only as efficient as its weakest abstraction. Eliminate it."`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0a0e1a&height=100&section=footer" width="100%"/>
